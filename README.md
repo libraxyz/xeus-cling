@@ -8,7 +8,7 @@
 `xeus-cling` is a Jupyter kernel for C++ based on the C++ interpreter [cling](https://github.com/root-project/cling) and
 the native implementation of the Jupyter protocol [xeus](https://github.com/jupyter-xeus/xeus).
 
-## Installation
+## Installation test
 
 xeus-cling has been packaged for the conda package manager on the **Linux** and **OS X** platforms. At the moment, we are not providing packages for the **Windows** platform.
 
